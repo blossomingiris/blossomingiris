@@ -1,4 +1,5 @@
-![140Z_2106 w026 n002 537B p1 537](https://user-images.githubusercontent.com/102720711/188446967-984f5354-3e62-48b7-ae26-a56b37ba7271.jpg)
+
+![HD-wallpaper-anime-room-computer-night](https://user-images.githubusercontent.com/102720711/188447788-1a86c6aa-2fc1-498e-9ef1-6828b38b6ab6.jpg)
 
   ### Hi! :vulcan_salute:
   
