@@ -8,4 +8,3 @@
 - :postbox: How to reach me: blossomingiris@gmail.com
 
 
-![Group 2](https://user-images.githubusercontent.com/102720711/188460819-48559785-bf32-4a2d-b521-e8c24ad817d3.png)
