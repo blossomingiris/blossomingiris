@@ -1,7 +1,7 @@
-<div>
-<img src="https://user-images.githubusercontent.com/102720711/188443633-2554120c-1519-4701-b0bb-6f93b324da02.png" />
-<div>### Hi! :vulcan_salute:
+![140Z_2106 w026 n002 537B p1 537](https://user-images.githubusercontent.com/102720711/188446967-984f5354-3e62-48b7-ae26-a56b37ba7271.jpg)
 
+  ### Hi! :vulcan_salute:
+  
 -  :star2: My name is Xenia
 - :woman_technologist: I’m junior frontend-developer and student of Social Hackers Academy (Greece)
 - 🔭 I’m currently working on my portfolio projects
