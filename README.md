@@ -1,10 +1,10 @@
 ### Hello! 
   
-- :woman_astronaut: My name is Xenia
-- :woman_technologist: I’m junior frontend-developer and student of Social Hackers Academy (Greece)
-- :rocket: I’m currently working on my portfolio projects
-- :mechanical_arm: I’m currently learning MERN stack
-- :electron: I’m looking to collaborate on react projects
-- :postbox: How to reach me: blossomingiris@gmail.com
+:handshake: My name is Xenia </br>
+:woman_technologist: I’m junior frontend-developer and student of Social Hackers Academy (Greece) </br>
+:rocket: I’m currently working on my portfolio projects </br>
+:mechanical_arm: I’m currently learning MERN stack </br>
+:electron: I’m looking to collaborate on react projects </br>
+:postbox: How to reach me: blossomingiris@gmail.com </br>
 
 
