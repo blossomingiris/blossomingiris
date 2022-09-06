@@ -2,7 +2,7 @@
 
 ### Hello! 
   
-:handshake: My name is Xenia </br>
+:space_invader My name is Xenia </br>
 :woman_technologist: I’m junior frontend-developer and student of Social Hackers Academy (Greece) </br>
 :rocket: I’m currently working on my portfolio projects </br>
 :mechanical_arm: I’m currently learning MERN stack </br>
