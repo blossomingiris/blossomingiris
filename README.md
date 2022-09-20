@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/102720711/188574066-8f684a81-47ef-4da1-8df4-aae7ecd95500.gif" align="right"> 
 
-### Hi! 
+### About me
   
-:space_invader: My name is Xenia </br>
+:space_invader: My name is Xenia. I am junior frontend developer from Greece </br>
 :woman_technologist: I’m junior frontend-developer and student of Social Hackers Academy (Greece) </br>
 :rocket: I’m currently working on my portfolio projects </br>
 :mechanical_arm: I’m currently learning MERN stack </br>
