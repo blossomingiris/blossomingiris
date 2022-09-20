@@ -7,4 +7,4 @@
 :rocket: I’m currently working on my portfolio projects </br>
 :mechanical_arm: I’m currently learning MERN stack </br>
 :electron: I’m looking to collaborate on react projects </br>
-:postbox: How to reach me: <mailto:blossomingiris@gmail.com> [blossomingiris@gmail.com](mailto:blossomingiris@gmail.com)
+:postbox: How to reach me: blossomingiris@gmail.com
