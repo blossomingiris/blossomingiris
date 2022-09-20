@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/102720711/188574066-8f684a81-47ef-4da1-8df4-aae7ecd95500.gif" align="right"> 
 
-### Hi there!
+### :wave: Hi there!
 
-### About me:
+### :woman_technologist: About me:
   
-:woman_technologist: My name is Xenia. I am junior frontend developer from Greece </br>
+:seedling: My name is Xenia. I am junior frontend developer from Greece </br>
 :rocket: I’m currently working on my portfolio projects </br>
 :mechanical_arm: I’m currently learning MERN stack </br>
 :electron: I’m looking to collaborate on react projects </br>
