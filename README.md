@@ -7,7 +7,7 @@
 :seedling: My name is Xenia. I am junior frontend developer from Greece </br>
 :rocket: I’m currently working on my portfolio projects </br>
 :mechanical_arm: I’m currently learning MERN stack </br>
-:electron: I’m looking to collaborate on react projects </br>
+:electron: I’m looking to collaborate on React projects </br>
 :postbox: How to reach me: blossomingiris@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
