@@ -5,8 +5,8 @@
 ### :woman_technologist: About me:
   
 :seedling: My name is Xenia. I am junior frontend developer from Greece </br>
-:rocket: I’m currently working on my portfolio projects </br>
-:mechanical_arm: I’m currently learning MERN stack </br>
+:rocket: I’m currently working on web site</br>
+:mechanical_arm: I’m currently learning Vue </br>
 :electron: I’m looking to collaborate on React projects </br>
 :postbox: How to reach me: blossomingiris@gmail.com
 
