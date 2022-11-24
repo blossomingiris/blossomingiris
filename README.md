@@ -5,8 +5,9 @@
 :sparkles: Hi, my name is Xenia</br>
 :sparkles: I am junior front-end developer from Greece</br>
 :sparkles: I’m currently working on my portfolio</br>
-:sparkles: I’m looking to learn new framework </br>
-:sparkles: Let's be in touch <div><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedn" alt=""Linkedn" width="40" height="40"/></div></br>
+:sparkles: I’m looking for to learn new framework </br>
+:sparkles: Let's be in touch  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
 
 ## Programming Languages and Tools:
 <div>
