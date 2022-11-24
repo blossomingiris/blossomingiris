@@ -2,7 +2,7 @@
 
 ## About me:
   
-:sparkles: Hi, my name is Xenia</br>
+:sparkles: Hi, my name is Xenia</br></br>
 :sparkles: I am junior front-end developer from Greece</br>
 :sparkles: I’m currently working on my portfolio</br>
 :sparkles: I’m looking for to learn new framework </br>
