@@ -1,15 +1,15 @@
 <img src="https://user-images.githubusercontent.com/102720711/188574066-8f684a81-47ef-4da1-8df4-aae7ecd95500.gif" align="right"> 
 
-### :wave: Hi there!
+## :wave: Hi there!
 
-### :woman_technologist: About me:
+## :woman_technologist: About me:
   
 :sparkles: My name is Xenia. I am junior front-end developer from Greece</br>
 :sparkles: I’m currently working on my portfolio</br>
 :sparkles: I’m looking to learn new framework </br>
 :sparkles: Let's be in touch blossomingiris@gmail.com
 
-### :hammer_and_wrench: Programming languages and Tools :
+## :hammer_and_wrench: Programming languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
