@@ -8,7 +8,7 @@
 - I’m looking for to learn new framework </br>
 - Let's be in touch  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedn" alt="Linkedn" width="30" align ="center" height="30"/>
 
-## Programming Languages and Tools:
+## :woman_technologist: Programming Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
