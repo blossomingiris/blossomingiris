@@ -1,13 +1,12 @@
 <img src="https://user-images.githubusercontent.com/102720711/188574066-8f684a81-47ef-4da1-8df4-aae7ecd95500.gif" align="right"> 
 
-## About me:
+## :sparkles: About me:
   
-:sparkles: Hi, my name is Xenia</br></br>
-:sparkles: I am junior front-end developer from Greece</br>
-:sparkles: I’m currently working on my portfolio</br>
-:sparkles: I’m looking for to learn new framework </br>
-:sparkles: Let's be in touch  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+- Hi, my name is Xenia</br></br>
+- I am junior front-end developer from Greece</br>
+- I’m currently working on my portfolio</br>
+- I’m looking for to learn new framework </br>
+- Let's be in touch  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedn" alt="Linkedn" width="40" height="40"/>
 
 ## Programming Languages and Tools:
 <div>
