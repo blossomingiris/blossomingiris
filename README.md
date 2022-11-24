@@ -4,11 +4,10 @@
 
 ### :woman_technologist: About me:
   
-:star2: My name is Xenia. I am junior frontend developer from Greece </br>
-:star2: I’m currently working on my portfolio</br>
-:star2: I’m looking for to learn new framework </br>
-:star2: I’m looking to collaborate and create awesome project </br>
-:star2: How to reach me: blossomingiris@gmail.com
+:sparkles: My name is Xenia. I am junior front-end developer from Greece</br>
+:sparkles: I’m currently working on my portfolio</br>
+:sparkles: I’m looking to learn new framework </br>
+:sparkles: Let's be in touch blossomingiris@gmail.com
 
 ### :hammer_and_wrench: Programming languages and Tools :
 
