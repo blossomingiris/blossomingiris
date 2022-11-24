@@ -2,7 +2,8 @@
 
 ## :woman_technologist: About me:
   
-:sparkles: Hi! My name is Xenia. I am junior front-end developer from Greece</br>
+:sparkles: Hi, my name is Xenia</br>
+:sparkles: I am junior front-end developer from Greece</br>
 :sparkles: I’m currently working on my portfolio</br>
 :sparkles: I’m looking to learn new framework </br>
 :sparkles: Let's be in touch blossomingiris@gmail.com
