@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/102720711/188574066-8f684a81-47ef-4da1-8df4-aae7ecd95500.gif" align="right"> 
 
-Hi :wave:, my name is Xenia </br>
+### Hi :wave:, my name is Xenia </br>
 
-## :sparkles: About me:
+### :sparkles: About me:
 ~ I am passionate junior front-end developer from Greece</br>
 ~ My website is :point_right: [here](https://xenia-rachouti.onrender.com/)</br>
 ~ I’m currently working on e-commerce website</br>
