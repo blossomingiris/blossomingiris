@@ -3,7 +3,7 @@
 ## :sparkles: About me:
   
 ~ Hi, my name is Xenia</br>
-~ I am junior front-end developer from Greece</br>
+~ I am passionate junior front-end developer from Greece</br>
 ~ My website is :point_right: [here](https://xenia-rachouti.onrender.com/)</br>
 ~ I’m currently working on e-commerce website</br>
 ~ I’m looking to learn new framework </br>
