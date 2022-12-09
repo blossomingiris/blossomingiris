@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/102720711/188574066-8f684a81-47ef-4da1-8df4-aae7ecd95500.gif" align="right"> 
 
-### Hi, my name is Xenia :sparkles: </br>
+### :sparkles: Hi, my name is Xenia  </br>
 ~ I am passionate junior front-end developer from Greece</br>
 ~ My website is :point_right: [here](https://xenia-rachouti.onrender.com/)</br>
 ~ I’m currently working on e-commerce website</br>
@@ -8,7 +8,7 @@
 ~ Let's be in touch :point_right: [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="xenia_rachouti" alt="liknkedn" width="25" align ="center" height="25"/>](https://www.linkedin.com/in/xenia-rachouti/?locale=en_US)</br>
 
 
-### Sripting, programming languages and tools that i use: :hammer_and_wrench:
+### :hammer_and_wrench: Sripting, programming languages and tools that i use: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
