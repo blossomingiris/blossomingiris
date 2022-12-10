@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/102720711/188574066-8f684a81-47ef-4da1-8df4-aae7ecd95500.gif" align="right"> 
+“ Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ### :sparkles: Hi, my name is Xenia  </br>
 ~ I am passionate junior front-end developer from Greece</br>
@@ -22,3 +22,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title = "MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+
+<img src="https://user-images.githubusercontent.com/102720711/188574066-8f684a81-47ef-4da1-8df4-aae7ecd95500.gif"> 
