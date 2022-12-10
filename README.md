@@ -1,4 +1,5 @@
-“ Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+<img src="https://user-images.githubusercontent.com/102720711/188574066-8f684a81-47ef-4da1-8df4-aae7ecd95500.gif" align = "right"> 
 
 ### :sparkles: Hi, my name is Xenia  </br>
 ~ I am passionate junior front-end developer from Greece</br>
@@ -24,4 +25,3 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/102720711/188574066-8f684a81-47ef-4da1-8df4-aae7ecd95500.gif"> 
