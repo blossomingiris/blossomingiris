@@ -2,7 +2,8 @@
 <img src="https://user-images.githubusercontent.com/102720711/188574066-8f684a81-47ef-4da1-8df4-aae7ecd95500.gif" align = "right"> 
 
 ###  Hi :v:, my name is Xenia  </br>
-~ I am a passionate junior front-end developer from Greece </br>
+~ I am self-starter junior front-end developer from Greece </br>
+~ My goal is to create a seamless and enjoyable application for people
 ~ You can visit my website is here :point_right: [here](https://xenia-rachouti.onrender.com/)</br>
 ~ I am currently working on an e-commerce website :sparkles: </br>
 ~ I am looking to learn new framework </br>
