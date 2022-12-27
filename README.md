@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/102720711/188574066-8f684a81-47ef-4da1-8df4-aae7ecd95500.gif" align = "right"> 
 
-###  Hi :v:, I;m Xenia  </br>
+###  Hi :v:, I'm Xenia (she/her)  </br>
 ~ Self-starter junior front-end developer from Greece </br>
 ~ My goal is to create engaging and enjoyable applications for people <br/>
 ~ To get to know me better, please visit my website :point_right: [here](https://xenia-rachouti.onrender.com/)</br>
