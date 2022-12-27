@@ -1,12 +1,11 @@
 
 <img src="https://user-images.githubusercontent.com/102720711/188574066-8f684a81-47ef-4da1-8df4-aae7ecd95500.gif" align = "right"> 
 
-###  Hi :v:, my name is Xenia  </br>
-~ I am self-starter junior front-end developer from Greece </br>
+###  Hi :v:, I;m Xenia  </br>
+~ Self-starter junior front-end developer from Greece </br>
 ~ My goal is to create engaging and enjoyable applications for people <br/>
-~ To know me better please visit my website :point_right: [here](https://xenia-rachouti.onrender.com/)</br>
+~ To get to know me better, please visit my website :point_right: [here](https://xenia-rachouti.onrender.com/)</br>
 ~ I am currently working on an e-commerce website :sparkles: </br>
-~ I am looking to learn new framework </br>
 ~ Let us be in touch :point_right: [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="xenia_rachouti" alt="liknkedn" width="25" align ="center" height="25"/>](https://www.linkedin.com/in/xenia-rachouti/?locale=en_US)</br>
 
 ### :hammer_and_wrench: Sripting, programming languages and tools that I use: 
