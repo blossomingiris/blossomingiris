@@ -3,7 +3,7 @@
 
 ###  Hi :v:, my name is Xenia  </br>
 ~ I am self-starter junior front-end developer from Greece </br>
-~ My goal is to create enjoyable and seamless applications for people <br/>
+~ My goal is to create engaging and enjoyable applications for people <br/>
 ~ To know me better please visit my website :point_right: [here](https://xenia-rachouti.onrender.com/)</br>
 ~ I am currently working on an e-commerce website :sparkles: </br>
 ~ I am looking to learn new framework </br>
