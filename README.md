@@ -1,4 +1,4 @@
-###  Hi, I'm Xenia (she/her)  </br>
+###  Hi, I'm Xenia Rachouti  </br>
 ~ Self-taught frontend developer with a keen eye for details </br>
 ~ I want to make a user-friendly and visually appealing app <br/>
 ~ To know me, please check my website  :point_right: [here](https://xenia-rachouti.onrender.com/)</br>
