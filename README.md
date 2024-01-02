@@ -1,5 +1,5 @@
 ###  Hi, I'm Xenia Rachouti  </br>
-~ I am frontend developer with a keen eye for details </br>
+~ I am frontend developer with a eye for details </br>
 ~ I am working at [Konnektable Technologies ltd](https://konnektable.com/) <br/>
 ~ I want to make a user-friendly and visually appealing app <br/>
 ~ To know me, please check my website  :point_right: [here](https://xenia-rachouti.onrender.com/)</br>
