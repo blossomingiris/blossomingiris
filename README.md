@@ -1,4 +1,4 @@
-###  Hi, I'm Xenia Rachouti  </br>
+###  Hey there, I'm Xenia Rachouti  </br>
 ~ Frontend developer from Greece </br>
 ~ Working at [Konnektable Technologies ltd](https://konnektable.com/) <br/>
 ~ Love working with React  <br/>
