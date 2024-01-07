@@ -1,4 +1,4 @@
-###  Hey there, I'm Xenia Rachouti  </br>
+###  Hey there!  </br>
 ~ Frontend Developer </br>
 ~ Love working with React  <br/>
 ~ Currently employed at [Konnektable Technologies ltd](https://konnektable.com/) </br>
