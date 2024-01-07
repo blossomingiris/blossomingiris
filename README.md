@@ -1,5 +1,5 @@
 ###  Hey there, I'm Xenia Rachouti  </br>
-~ Frontend developer from Greece </br>
+~ Frontend Developer </br>
 ~ Love working with React  <br/>
 ~ Currently employed at [Konnektable Technologies ltd](https://konnektable.com/) </br>
 ~ To know me, please check my website  :point_right: [here](https://xenia-rachouti.onrender.com/)</br>
