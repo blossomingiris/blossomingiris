@@ -9,7 +9,7 @@
 ### Frontend: 
 ~ HTML, CSS </br>
 ~ JavaScript, TypeScript </br>
-~ React, Next.js </br>>
+~ React, Next.js </br>
 ~ Formik, React Hook Form </br>
 ~ React Query </br>
 ~ React Table </br>
