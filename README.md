@@ -2,7 +2,7 @@
 ~ Frontend Developer </br>
 ~ Love working with React <br/>
 ~ React Developer in [Quintessential SFT](https://xenia-rachouti.vercel.app/) <br/>
-~ Check my personal ✨ [website](https://xenia-rachouti.vercel.app/) <br/>
+~ Check my [personal website ✨](https://xenia-rachouti.vercel.app/) <br/>
 ~ Let us be in touch :point_right: [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="xenia_rachouti" alt="liknkedn" width="25" align ="center" height="25"/>](https://www.linkedin.com/in/xenia-rachouti/?locale=en_US)</br>
 
 ## My Tech Stack: 
