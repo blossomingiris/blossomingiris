@@ -15,10 +15,4 @@
 ~ Tailwind </br>
 ~ Storybook </br>
 
-  
-### Backend:
-~ Node.js </br>
-~ MongoDb </br>
-
-
 
