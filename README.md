@@ -6,7 +6,7 @@
 ## My Tech Stack: 
 
 ### Frontend: 
-~ HTML, CSS </br>
+~ HTML5, CSS3 </br>
 ~ JavaScript, TypeScript </br>
 ~ React, Next.js </br>
 ~ React Hook Form </br>
@@ -14,5 +14,6 @@
 ~ React Table </br>
 ~ Tailwind </br>
 ~ Storybook </br>
+~ RESTful API, RPC, GraphQL
 
 
