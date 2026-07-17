@@ -2,18 +2,3 @@
 ~ Frontend Developer with 3 years professional experience</br>
 ~ To learn more about me, check out my :point_right: [Personal website](https://xenia-rachouti.vercel.app/)<br/>
 ~ Let us be in touch :point_right: [LinkedIn](https://www.linkedin.com/in/xenia-rachouti/?locale=en_US)</br>
-
-## My Tech Stack: 
-
-### Frontend: 
-~ HTML5, CSS3 </br>
-~ JavaScript, TypeScript </br>
-~ React, Next.js </br>
-~ React Hook Form </br>
-~ React Query </br>
-~ React Table </br>
-~ Tailwind </br>
-~ Storybook </br>
-~ RESTful API, RPC, GraphQL
-
-
