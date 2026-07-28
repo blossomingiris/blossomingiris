@@ -6,17 +6,11 @@ Currently expanding into Full Stack development through hands-on experience with
 
 ## Tech Stack
 
- **Frontend & Full-Stack**
+ **Frontend & Full-Stack** 🧩 React • Next.js • TypeScript • Tailwind CSS • Storybook • TanStack Query • Zustand • React Hook Form
 
-🧩 React • Next.js • TypeScript • Tailwind CSS • Storybook • TanStack Query • Zustand • React Hook Form
+ **Backend** 🧩 Node.js • Fastify • PostgreSQL • Drizzle ORM • TypeBox • REST APIs • OpenAPI
 
- **Backend**
-
-🧩 Node.js • Fastify • PostgreSQL • Drizzle ORM • TypeBox • REST APIs • OpenAPI
-
- **Tools**
-
-🧩 Git • Docker • Figma • Adobe XD
+ **Tools** 🧩 Git • Docker • Figma • Adobe XD
 
 ## Current Focus
 
@@ -27,8 +21,7 @@ Currently expanding into Full Stack development through hands-on experience with
 
 ## Links
 
-Portfolio  
-https://xenia-rachouti.vercel.app
+[Portfolio](https://xenia-rachouti.vercel.app)
 
-LinkedIn  
-https://www.linkedin.com/in/xenia-rachouti
+[LinkedIn](https://www.linkedin.com/in/xenia-rachouti)
+
