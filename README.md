@@ -1,27 +1,35 @@
-# Hi, I'm Ksenia 👋
+# Hi, I'm Ksenia
 
-Frontend Developer with **3+ years of professional experience** building scalable B2B web applications using **React, Next.js, TypeScript, and modern UI architecture**.
+Frontend Developer with **3+ years of professional experience** building B2B applications.
 
-Currently expanding into **Full Stack development**, building a production-style application with **Node.js, Fastify, PostgreSQL, Drizzle ORM, and REST APIs**.
+Frontend Developer with 3+ years of experience building B2B applications with  with **React, Next.js, and TypeScript**.
+Currently expanding into Full Stack development through hands-on experience with **Node.js, Fastify, PostgreSQL, and API-driven architectures**.
 
-### What I work with
+## Tech Stack
 
-- ⚛️ React • Next.js • TypeScript
-- 🎨 Tailwind CSS • Storybook • Design Systems
-- 🔄 TanStack Query • Zustand • React Hook Form
-- 🔌 REST • GraphQL • gRPC
-- 🟢 Node.js • Fastify
-- 🐘 PostgreSQL • Drizzle ORM
-- 🐳 Docker • Git
+**Frontend & Full-Stack**
 
-- ### Current Focus
+React • Next.js • TypeScript • Tailwind CSS • Storybook • TanStack Query • Zustand • React Hook Form
 
-- Full Stack development with Node.js & PostgreSQL
-- API design and backend architecture
-- AI-assisted software development workflows
+**Backend**
 
-### Links
+Node.js • Fastify • PostgreSQL • Drizzle ORM • TypeBox • REST APIs • OpenAPI
 
-🌐 Portfolio → https://xenia-rachouti.vercel.app
+**Tools**
 
-💼 LinkedIn → https://www.linkedin.com/in/xenia-rachouti
+Git • Docker • Figma • Adobe XD
+
+## Current Focus
+
+- Building [Phyzio](your-repository-link) — a Full Stack B2B application for physiotherapy clinics
+- Focusing on backend architecture, API design, and data modeling
+- Expanding Full Stack skills with Node.js, Fastify, PostgreSQL, and Drizzle ORM
+- Exploring AI-assisted development workflows
+
+## Links
+
+Portfolio  
+https://xenia-rachouti.vercel.app
+
+LinkedIn  
+https://www.linkedin.com/in/xenia-rachouti
