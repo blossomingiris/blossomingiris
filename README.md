@@ -7,21 +7,21 @@ Currently expanding into Full Stack development through hands-on experience with
 
 ## Tech Stack
 
-**Frontend & Full-Stack**
+ **Frontend & Full-Stack**
 
-React • Next.js • TypeScript • Tailwind CSS • Storybook • TanStack Query • Zustand • React Hook Form
+🧩 React • Next.js • TypeScript • Tailwind CSS • Storybook • TanStack Query • Zustand • React Hook Form
 
-**Backend**
+ **Backend**
 
-Node.js • Fastify • PostgreSQL • Drizzle ORM • TypeBox • REST APIs • OpenAPI
+🧩 Node.js • Fastify • PostgreSQL • Drizzle ORM • TypeBox • REST APIs • OpenAPI
 
-**Tools**
+ **Tools**
 
-Git • Docker • Figma • Adobe XD
+🧩 Git • Docker • Figma • Adobe XD
 
 ## Current Focus
 
-- Building [Phyzio](your-repository-link) — a Full Stack B2B application for physiotherapy clinics
+- Building [Phyzio](https://github.com/blossomingiris/Phyzio) — a Full Stack B2B application for physiotherapy clinics
 - Focusing on backend architecture, API design, and data modeling
 - Expanding Full Stack skills with Node.js, Fastify, PostgreSQL, and Drizzle ORM
 - Exploring AI-assisted development workflows
