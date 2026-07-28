@@ -1,6 +1,7 @@
 # Hi, I'm Ksenia
 
 Frontend Developer with 3+ years of experience building B2B applications with  with **React, Next.js, and TypeScript**.</br>
+
 Currently expanding into Full Stack development through hands-on experience with **Node.js, Fastify, PostgreSQL, and API-driven architectures**.
 
 ## Tech Stack
