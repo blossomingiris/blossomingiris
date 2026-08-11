@@ -22,5 +22,5 @@ Currently expanding into Full Stack development with **Node.js, Fastify, Postgre
 ### Links
 
 [Portfolio](https://xenia-rachouti.vercel.app) &nbsp;·&nbsp;
-[LinkedIn](https://www.linkedin.com/in/
+[LinkedIn](https://www.linkedin.com/in/)
 
