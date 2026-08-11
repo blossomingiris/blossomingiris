@@ -1,27 +1,26 @@
-# Hi, I'm Ksenia
+# Hi, I'm Ksenia 👋
 
-Frontend Developer with 3+ years of experience building B2B applications with  with **React, Next.js, and TypeScript**.</br>
+Frontend Developer with 3+ years of experience building B2B applications with **React, Next.js, and TypeScript**.
 
 Currently expanding into Full Stack development with **Node.js, Fastify, PostgreSQL, and API-driven architectures**.
 
-## Tech Stack
+### Tech Stack
 
- **Frontend & Full-Stack** 🧩 React • Next.js • TypeScript • Tailwind CSS • Storybook • TanStack Query • Zustand • React Hook Form
+**Frontend** &nbsp;·&nbsp; React · Next.js · TypeScript · Tailwind CSS · Storybook · TanStack Query · Zustand · React Hook Form
 
- **Backend** 🧩 Node.js • Fastify • PostgreSQL • Drizzle ORM • TypeBox • REST APIs • OpenAPI
+**Backend** &nbsp;·&nbsp; Node.js · Fastify · PostgreSQL · Drizzle ORM · TypeBox · REST APIs · OpenAPI
 
- **Tools** 🧩 Git • Docker • Figma • Adobe XD
+**Tools** &nbsp;·&nbsp; Git · Docker · Figma · Adobe XD
 
-## Current Focus
+### Current Focus
 
-- Building [Phyzio](https://github.com/blossomingiris/Phyzio) — a Full Stack B2B application for physiotherapy clinics
-- Focusing on backend architecture, API design, and data modeling
-- Expanding Full Stack skills with Node.js, Fastify, PostgreSQL, and Drizzle ORM
+- Building **[Phyzio](https://github.com/blossomingiris/Phyzio)** — a Full Stack B2B application for physiotherapy clinics
+- Backend architecture, API design, and data modeling
+- Expanding Full Stack skills with Node Drizzle ORM
 - Exploring AI-assisted development workflows
 
-## Links
+### Links
 
-[Portfolio](https://xenia-rachouti.vercel.app)
-
-[LinkedIn](https://www.linkedin.com/in/xenia-rachouti)
+[Portfolio](https://xenia-rachouti.vercel.app) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/
 
