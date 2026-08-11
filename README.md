@@ -7,12 +7,13 @@ Currently expanding into Full Stack development with **Node.js, Fastify, Postgre
 ### Tech Stack
 
 **Frontend**
+ React · Next.js · TypeScript · Tailwind CSS · Storybook · TanStack Query · Zustand · React Hook Form
 
-**Frontend**: React · Next.js · TypeScript · Tailwind CSS · Storybook · TanStack Query · Zustand · React Hook Form
+**Backend**
+Node.js · Fastify · PostgreSQL · Drizzle ORM · TypeBox · REST APIs · OpenAPI
 
-**Backend**: Node.js · Fastify · PostgreSQL · Drizzle ORM · TypeBox · REST APIs · OpenAPI
-
-**Tools**: Git · Docker · Figma · Adobe XD
+**Tools**
+Git · Docker · Figma · Adobe XD
 
 ### Current Focus
 
