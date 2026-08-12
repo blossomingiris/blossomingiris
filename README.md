@@ -17,7 +17,7 @@ Git · Docker · Figma · Adobe XD
 
 ### Current Focus
 
-- Building **[Phyzio](https://github.com/blossomingiris/Phyzio)** — a Full Stack B2B application for physiotherapy clinics
+- Building **[Phyzio](https://github.com/blossomingiris/Phyzio)** — a Full Stack application for physiotherapy clinics
 - Backend architecture, API design, and data modeling
 - Expanding Full Stack skills with Node Drizzle ORM
 - Exploring AI-assisted development workflows
